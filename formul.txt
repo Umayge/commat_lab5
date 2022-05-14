@@ -1,0 +1,2 @@
+
+-\dfrac{987\cos\left(\frac{47x}{10}-\frac{16}{5}\right)-1560x+310}{100}
